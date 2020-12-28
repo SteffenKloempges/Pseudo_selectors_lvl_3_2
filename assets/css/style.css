@@ -1,0 +1,25 @@
+ul li:nth-child(3n+3){
+    color: #311B92;
+    font-family: 'Montserrat', sans-serif;
+}
+ul li:nth-child(5n+5){
+    background: #fff176;
+}
+ul li:nth-child(even){
+    text-decoration: underline;
+}
+ul li:nth-child(odd){
+    list-style-type: square;
+}
+ul li:nth-child(7n+7){
+    font-size: 26px;
+}
+ul li:first-child{
+    color: #E53935;
+}
+ul li:nth-child(4n+4){
+    letter-spacing: 6px;
+}
+ul li:nth-child(13n+13){
+    background: #ff8a80;
+}
